@@ -1,0 +1,33 @@
+# Maven build directory
+/target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# IDE metadata
+*.iml
+*.ipr
+*.iws
+
+# VS Code (if used)
+.vscode/
+
+# User-specific or temp files
+*.swp
+*.bak
+*~
+
+# Environment files
+.env
